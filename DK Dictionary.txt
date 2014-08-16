@@ -6,4 +6,6 @@ Dk Dictionary
 4. krees = cries
 5. FUNGUY = fungi
 6. LOIN king = LION king
-heence
+7. Koria = Korea 
+8. pekchas = pechkas
+9. Hammer = Hummer              
